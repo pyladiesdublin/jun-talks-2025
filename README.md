@@ -8,7 +8,7 @@
 
   
 # 📢 Announcements
-🔜 Coming Soon!
+Slides: https://docs.google.com/presentation/d/e/2PACX-1vQgVbFLhvb0W1cRoE4IA5cpJtS2lFUuYmRcRkmwSDNl7zqe4i8ALuispBzHXqQr_x-MweSvJYS9brRA/pub?start=false&loop=false&delayms=3000
 
 # Talks
 Any questions for our speakers or PyLadies Dublin? You can post them via https://github.com/pyladiesdublin/may-talks-2025/issues
