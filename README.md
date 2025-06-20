@@ -30,7 +30,23 @@ Laura has recently moved into a data science role, having initially spent 5 year
 I have 8+ years in the tech sector, creating solutions that scale. I worked in consulting in Italy and the US on cybersecurity for manufacturing, started a Web Agency serving small businesses, had two startup experiences (one bad, one good). For the past two years, I've been leading a team of Developers in Dublin, Ireland for AWS.
 
 # 💟 Thanks 
-* Optum for hosting & catering AND Sri and the team for organising it all for us. 
+Optum for hosting & catering AND Sri and the team for organising it all for us.
+
+From our sponsor:
+> At Optum, we’re united by a mission to help people live healthier lives.
+In Ireland, our teams are building innovative products and platforms that improve how healthcare works for everyone.
+From engineering smarter systems to applying advanced analytics and data science, we’re creating real-world solutions
+that drive better health outcomes.
+> 
+> We’re proud to foster an inclusive culture where everyone can thrive.
+> 
+> Interested in joining us?
+> 
+> We’d love to stay connected. Express your interest by completing the form, and a member of our Talent Acquisition team
+will be in touch: [uhg.hr/WomenLEAD](https://uhg.hr/WomenLEAD)
+> 
+> Check out our open roles here: [workatoptum.com](https://workatoptum.com)
+
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
