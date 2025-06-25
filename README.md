@@ -47,6 +47,7 @@ will be in touch: [uhg.hr/WomenLEAD](https://uhg.hr/WomenLEAD)
 > 
 > Check out our open roles here: [workatoptum.com](https://workatoptum.com)
 
+* More info about [WomenLEAD](https://github.com/pyladiesdublin/jun-talks-2025/blob/main/Women%20LEAD%20-%20External%20networking%20flyer.pdf) (PDF)
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
