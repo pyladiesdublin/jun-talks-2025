@@ -14,16 +14,16 @@ Slides: https://docs.google.com/presentation/d/e/2PACX-1vQgVbFLhvb0W1cRoE4IA5cpJ
 Any questions for our speakers or PyLadies Dublin? You can post them via https://github.com/pyladiesdublin/may-talks-2025/issues
 
 ## The Art of the possible by Leane Hannigan
-* Slides: Coming soon
+* Slides: https://github.com/pyladiesdublin/jun-talks-2025/blob/main/PyLadies_17062025%20-%20Leane%20Hannigan.pdf
 
 ## From Scale to Purpose: Solving a Real Optum Problem by Kavya Rao
-* Slides: Coming soon
+* Slides: https://github.com/pyladiesdublin/jun-talks-2025/blob/main/PyLadies_17062025%20-%20Kavya%20Rao.pdf
   
 ## Navigating the Move from a Business to a Technical Role (includes interactive activity) by Laura Brennan
 This talk discusses the move from a business role (project manager/scrum master) to a data scientist role, and how learning python was the key step in this journey.
 The second half of the session is an activity where attendees need to guess the ICD-10 (disease) code.
 
-* Slides: Coming soon
+* Slides: https://github.com/pyladiesdublin/jun-talks-2025/blob/main/PyLadies_17062025%20-%20Laura%20Brennan.pdf
 
 ### About Laura Brennan (Senior Data Scientist, Optum)
 Laura has recently moved into a data science role, having initially spent 5 years working in consulting and project management. Bored of just speaking about other people's work, she learned python and has pivoted to a role as a data scientist.
